@@ -1,11 +1,10 @@
 export default function Contact() {
 
   return (
-    <div className="container py-5 border:4px solid bg-dark">
-
-
+    <div className="container">
       <form id="contactForm" action="https://formsubmit.co/2b02628becc9587ed474eb15e08e261a" method="POST">
         <div className="mb-3 form-group">
+          <h2 className="text-white">Contact Form</h2>
           <label className="form-label" for="name">Name</label>
           <input className="form-control" id="name" type="text" placeholder="Name" />
         </div>
@@ -23,12 +22,10 @@ export default function Contact() {
         </div>
 
 
-        <div class="d-grid">
+        <div class="d-grid mb-3">
           <button className="btn btn-primary btn-lg" type="submit">Submit</button>
         </div>
-
       </form>
-
     </div>
   )
 

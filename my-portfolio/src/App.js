@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+
 import './App.css';
 
 //Import the base pages from the components

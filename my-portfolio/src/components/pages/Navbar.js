@@ -1,7 +1,7 @@
 export default function Navbar() {
 
   return (
-    <nav class="navbar bg-dark m-5 ">
+    <nav class="navbar bg-dark">
       <div class="container-fluid">
         <a class="navbar-brand text-white">Kevin Lam</a>
         <a class="navbar-brand text-white" href="#projects">Projects</a>
