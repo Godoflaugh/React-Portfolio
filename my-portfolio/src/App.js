@@ -11,19 +11,19 @@ import Skills from './components/pages/Skills'
 import Testimonials from './components/pages/Testimonials'
 import Contact from './components/pages/Contact'
 
-import 'bootstrap/dist/css/bootstrap.min.css';
-
 
 
 export default function App() {
   return (
-    <main className='text-gray bg-secondary.bg-gradient'>
-      {/* <Navbar /> */}
+    <main className='text-gray bg-secondary'>
+      <Navbar />
       <About />
-      {/* <Projects />
+      <Projects />
       <Skills />
       <Testimonials />
       <Contact /> */}
+
+
     </main>
   )
 }
