@@ -1,34 +1,34 @@
 export const projects = [
   {
     title: "PokeStats API",
-    subtitle: "Database and Servers",
+    subtitle: "Database and Servers (SQL)",
     description:
       "A custom built pokemon API that allows you to search for your favorite Pokemon and to view their statistics. Included with a music player to blend everything together in one nice package",
     image: "./pokestats.gif",
     link: "https://pokestats-original.herokuapp.com/",
   },
   {
-    title: "React Tracks",
-    subtitle: "React and Python",
+    title: "Crypto ELI5",
+    subtitle: "API and HTML",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-2.gif",
-    link: "https://reedbarger.com",
+      "1st custom group project, utilizing 2 different API's to render data based on user search criteria. Featuring a search bar that will display data on both relevant crypto data as well as important news articles relating to such. A crypto currency converter included for extra functionality",
+    image: "./ELI5.png",
+    link: "https://github.com/samb56/crypto-information-hub",
   },
   {
-    title: "DevChat",
-    subtitle: "React and Firebase",
+    title: "Custom ReadMe Generator",
+    subtitle: "Node CLI application for creating custom ReadMe quickly and efficiently",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-3.gif",
-    link: "https://pokestats-original.herokuapp.com/",
+      "A custom built ReadMe Generator",
+    image: "./Readme.PNG",
+    link: "https://github.com/Godoflaugh/Ecommerce-CRUD",
   },
   {
-    title: "Epic Todo App",
-    subtitle: "React Hooks",
+    title: "E-commerce API",
+    subtitle: "API Routing",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-4.gif",
-    link: "https://pythonbootcamp.com",
+      "E-commerce Back end for maintaing inventory and it's various attributes. Functionality includes being able too utilize CRUD on any of the related products.",
+    image: "./EcommerecePNG.PNG",
+    link: "https://github.com/Godoflaugh/Ecommerce-CRUD",
   },
 ];
