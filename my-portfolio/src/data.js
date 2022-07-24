@@ -11,7 +11,7 @@ export const projects = [
     title: "Crypto ELI5",
     subtitle: "API and HTML",
     description:
-      "1st custom group project, utilizing 2 different API's to render data based on user search criteria. Featuring a search bar that will display data on both relevant crypto data as well as important news articles relating to such. A crypto currency converter included for extra functionality",
+      "1st custom group project, utilizing 2 different API's to render data based on user search criteria. Featuring a search bar that will display data on both relevant crypto data as well as important news articles relating to such.",
     image: "./ELI5.png",
     link: "https://github.com/samb56/crypto-information-hub",
   },

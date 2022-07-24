@@ -14,13 +14,12 @@ import Footer from './components/pages/Footer'
 
 export default function App() {
   return (
-    <main className='text-gray bg-secondary'>
+    <main className='text-gray coolGradient'>
       <Navbar />
       <About />
       <Projects />
-      <Contact /> 
+      <Contact />
       <Footer />
-
 
     </main>
   )
