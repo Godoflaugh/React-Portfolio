@@ -17,17 +17,17 @@ export const projects = [
   },
   {
     title: "Custom ReadMe Generator",
-    subtitle: "Node CLI application for creating custom ReadMe quickly and efficiently",
+    subtitle: "Node CLI application",
     description:
-      "A custom built ReadMe Generator",
+      "A custom built ReadMe Generator, built too allow any developer to build out an easy ReadMe for their projects that will look professional and include all relevant data. Simple to use and includes license badges.",
     image: "./Readme.PNG",
     link: "https://github.com/Godoflaugh/Ecommerce-CRUD",
   },
   {
     title: "E-commerce API",
-    subtitle: "API Routing",
+    subtitle: "API Routing and Mongo Database!",
     description:
-      "E-commerce Back end for maintaing inventory and it's various attributes. Functionality includes being able too utilize CRUD on any of the related products.",
+      "E-commerce Back end for maintaing inventory and it's various attributes. Functionality includes being able too utilize CRUD on any of the related products.Everything is managed through the MongoDB, and Express server routing.",
     image: "./EcommerecePNG.PNG",
     link: "https://github.com/Godoflaugh/Ecommerce-CRUD",
   },

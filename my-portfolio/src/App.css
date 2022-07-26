@@ -13,9 +13,21 @@
   color: white;
 }
 
-.coolGradient{
+/* .coolGradient{
   background: rgb(2,0,36);
 background: linear-gradient(36deg, rgba(2,0,36,1) 7%, rgba(9,118,121,1) 46%, rgba(0,212,255,1) 92%);
+} */
+
+@keyframes gradient {
+	0% {
+		background-position: 0% 50%;
+	}
+	50% {
+		background-position: 100% 50%;
+	}
+	100% {
+		background-position: 0% 50%;
+	}
 }
 
 
