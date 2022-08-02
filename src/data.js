@@ -31,4 +31,11 @@ export const projects = [
     image: "./EcommerecePNG.PNG",
     link: "https://github.com/Godoflaugh/Ecommerce-CRUD",
   },
+  {
+    title: "Send Foodz App",
+    subtitle: "MERN Stack application",
+    description: "A full MERN stack application to host all of your favorite recipes and interact with a community of other foodies. The application supports uploading media formats for recipes cards. Allowing users to browse through and click open responsive cards to interact with said recipe",
+    image: "./SendFoodz.PNG",
+    link: "https://github.com/Godoflaugh/Send-Foodz",
+  },
 ];
