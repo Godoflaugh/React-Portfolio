@@ -35,9 +35,10 @@ export default function About() {
 
               <h1 className="text-right text-white">Skills</h1>
               <ul className="text-right text-white">
-                <li>HTMl, CSS, JavaScript</li>
+                <li>HTMl, CSS, JavaScript, Python, Ruby</li>
                 <li>API Management</li>
-                <li>MERN Stack Development</li>
+                <li>React.js, Vue.js</li>
+                <li>Database creation and management</li>
               </ul>
             </div>
           </div>

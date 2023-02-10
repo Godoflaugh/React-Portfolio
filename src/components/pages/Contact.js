@@ -23,7 +23,7 @@ export default function Contact() {
 
 
         <div class="d-grid mb-3">
-          <button className="btn btn-primary btn-lg" type="submit">Submit</button>
+          <button color="secondary" className="btn btn-primary btn-lg" type="submit">Submit</button>
         </div>
       </form>
     </div>

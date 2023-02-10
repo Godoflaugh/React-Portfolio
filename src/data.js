@@ -1,5 +1,12 @@
 export const projects = [
   {
+    title: "Send Foodz",
+    subtitle: "React Project (React, MongoDb, Full-stack)",
+    description: "A full stack react project, highlighting all the skills acquired. This application utilizes MongoDB to hold all user data such as profiles, media, and posts. Users are able to signup for an account, login, and post content in interactive media boxes.",
+    image: "./food.gif",
+    link: "https://glacial-hollows-58109.herokuapp.com/",
+  },
+  {
     title: "PokeStats API",
     subtitle: "Database and Servers (SQL)",
     description:
